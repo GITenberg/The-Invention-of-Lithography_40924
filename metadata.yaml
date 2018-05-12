@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '40896'
     url: http://www.gutenberg.org/2009/agents/40896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40924#The-Invention-of-Lithography
 gutenberg_issued: '2012-10-03'
 gutenberg_type: Text
 identifiers:
