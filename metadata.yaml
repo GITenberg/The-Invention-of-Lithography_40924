@@ -1,0 +1,45 @@
+_repo: The-Invention-of-Lithography_40924
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Muller, J. W. (Julius Washington)
+    aliases:
+    - Muller, Julius W. (Julius Washington)
+    - Muller, Julius Washington
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '40897'
+    url: http://www.gutenberg.org/2009/agents/40897
+covers:
+- cover_type: archival
+  image_path: 40924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Senefelder, Alois
+    aliases:
+    - Senefelder, Alloys
+    - Sennefelder, Alois
+    - Senefelder, Aloisius
+    - Senefelder, Aloys
+    - Sennefelder, Johann Aloys
+    - Senefelder, Johann Nepomuk Franz Alois
+    - Senfelder, Johann Aloys
+    birthdate: 1771
+    deathdate: 1834
+    gutenberg_agent_id: '40896'
+    url: http://www.gutenberg.org/2009/agents/40896
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40924'
+  lccn: '11027557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Lithography'
+title: The Invention of Lithography
+url: http://www.gutenberg.org/ebooks/40924
